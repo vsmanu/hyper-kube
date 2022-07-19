@@ -10,4 +10,4 @@ hyper-kube is a boilerplate which coins contemporary kube addons togather in a s
 | Certificates | Certmanager |
 | Networking | Calico |
 | Ingres | traefik |
-| Secrets | sealed secrets |
+| Monitoring | thanos |
