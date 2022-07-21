@@ -12,3 +12,5 @@ hyper-kube is a boilerplate which coins contemporary kube addons togather in a s
 | Ingres | traefik |
 | Monitoring | thanos |
 | Secrets | Sealed secrets |
+| Service proxy | Envoy |
+| Logging | Fluentd |
